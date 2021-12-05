@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AleksonYT
 - 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on Website Bulding
 - 📫 How to reach me Email iwonaourfalian@gmail.com
 
